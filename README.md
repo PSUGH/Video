@@ -1,10 +1,10 @@
 # Video
 
-Recordings from various sessions at the PowerShell UserGroup Hannover.
+Recordings from various sessions at the PowerShell UserGroup Hannover. Click on the title to see the video, click on more to get additional information (scripts, slides etc). 
 
-| Date       | Lang  | Presenter    | Title              |
-| ---------- | ----- | ------------ | ------------------ |
-| 2020-12-18 | en_US | Carl Webster | [PowerShell Scripts](https://vimeo.com/492867344/2605e684f8) |
-|            |       |              |                    |
-|            |       |              |                    |
+| Date       | Lang  | Presenter     | Title                                                        | More                                                         |                                          |
+| ---------- | ----- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
+| 2020-12-18 | en-US | Carl Webster  | [PowerShell Scripts](https://vimeo.com/492867344/2605e684f8) | [Scripts](https://carlwebster.com/downloads/)                | <span style="color: green">public</span> |
+| 2020-06-19 | de-DE | Thorsten Butz | [7 Mythen über PowerShell 7](https://vimeo.com/430998728)    | [Slides, Scripts](https://github.com/thorstenbutz/conferences/tree/master/2020.PSUGH) | <span style="color: green">public</span> |
+|            |       |               |                                                              |                                                              |                                          |
 
